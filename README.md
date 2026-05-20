@@ -26,7 +26,7 @@ ELSA forwards each spine/token immediately upon production, forming a continuous
 To enhance this lightweight execution, ELSA introduces a bundled address event representation protocol to lower communication traffic of network-on-chip (NoC), and leverages mini-batch spiking Gustavson-product to cut memory access and exploit inherent sparsity.
 Combined with mapping and scheduling optimizations, ELSA achieves efficient, event-driven computation without compromising accuracy.
 Experiments show that SNNs can outperform quantized artificial neural networks (QANNs) while maintaining on-par accuracy. 
-For a 4-bit ResNet-50, ELSA achieves 3.4$\times$ speedup and 13.6$\times$ higher energy efficiency over the SOTA QANN accelerator (ANT), and 2.9$\times$ speedup and 22.1$\times$ energy efficiency gains over the SOTA SNN accelerator (PAICORE).
+For a 4-bit ResNet-50, ELSA achieves $3.4\times$ speedup and $13.6\times$ higher energy efficiency over the SOTA QANN accelerator (ANT), and $2.9\times$ speedup and $22.1\times$ energy efficiency gains over the SOTA SNN accelerator (PAICORE).
 
 ## ELSA Artifact Evaluation with Docker image
 

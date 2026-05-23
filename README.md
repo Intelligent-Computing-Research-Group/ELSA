@@ -1,14 +1,14 @@
 
 # ELSA: An ELastic SNN Inference Architecture for Efficient Neuromorphic Computing
 
-[![ISCA](https://img.shields.io/badge/ISCA-2026-red.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/You_VISTREAM_Improving_Computation_Efficiency_of_Visual_Streaming_Perception_via_Law-of-Charge-Conservation_CVPR_2025_paper.pdf)
+[![ISCA](https://img.shields.io/badge/ISCA-2026-red.svg)](https://arxiv.org/abs/2605.20802)
 [![License](https://img.shields.io/badge/License-MuLan_PSL_2.0-blue.svg)](https://opensource.org/license/mulanpsl-2-0)
 
 **Official implementation of ELSA (ISCA 2026)**
 
 This repository contains the artifact submission for the paper ELSA accepted at ISCA 2026 (Paper ID: 124). The artifact supports reproducing the results presented in the paper, including evaluations of Spiking Neural Networks (SNNs) at each time-step and performance assessment of the ELSA accelerator.
 
-> **[ELSA: An ELastic SNN Inference Architecture for Efficient Neuromorphic Computing](https://openaccess.thecvf.com/content/CVPR2025/papers/You_VISTREAM_Improving_Computation_Efficiency_of_Visual_Streaming_Perception_via_Law-of-Charge-Conservation_CVPR_2025_paper.pdf)**  
+> **[ELSA: An ELastic SNN Inference Architecture for Efficient Neuromorphic Computing](https://arxiv.org/abs/2605.20802)**  
 > Kang You, Chen Nie, Lee Jun Yan, Ziling Wei, Cheng Zou, Zekai Xu, Yu Feng, Honglan Jiang, Zhezhi He <br>
 > *Proceedings of the 53rd Annual International Symposium on Computer Architecture (ISCA), 2026*
 
